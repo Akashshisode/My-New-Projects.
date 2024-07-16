@@ -1,0 +1,2 @@
+The Shopping Website project involves the development of an online platform where users can browse, search, and purchase products or services. The primary objective is to create a user-friendly and visually appealing website that mimics the experience of shopping in a physical store, offering a convenient and secure way for users to explore and buy items.
+Technology used : HTML, CSS, Javascript, Angular.
